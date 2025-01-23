@@ -1,0 +1,79 @@
+Listing 1:
+Neighborhood: Upper East Side, Manhattan, New York
+Price: $2,500,000
+Bedrooms: 4
+Bathrooms: 3
+House Size: 2,500 sqft
+Description: Stunning penthouse with city views, luxurious finishes, and a rooftop terrace.
+
+Listing 2:
+Neighborhood: Beverly Hills, California
+Price: $5,000,000
+Bedrooms: 5
+Bathrooms: 6
+House Size: 6,000 sqft
+Description: Gated estate with a pool, tennis court, and guest house in the prestigious area of Beverly Hills.
+
+Listing 3:
+Neighborhood: Capitol Hill, Seattle, Washington
+Price: $800,000
+Bedrooms: 3
+Bathrooms: 2
+House Size: 1,800 sqft
+Description: Charming craftsman home with a spacious backyard and mountain views in a sought-after neighborhood.
+
+Listing 4:
+Neighborhood: South Beach, Miami, Florida
+Price: $1,200,000
+Bedrooms: 2
+Bathrooms: 2
+House Size: 1,500 sqft
+Description: Modern condo with ocean views, designer kitchen, and access to a pool and fitness center.
+
+Listing 5:
+Neighborhood: Bucktown, Chicago, Illinois
+Price: $600,000
+Bedrooms: 3
+Bathrooms: 2
+House Size: 2,000 sqft
+Description: Newly renovated townhouse with a rooftop deck, gourmet kitchen, and attached garage in a trendy neighborhood.
+
+Listing 6:
+Neighborhood: Back Bay, Boston, Massachusetts
+Price: $1,700,000
+Bedrooms: 2
+Bathrooms: 2
+House Size: 1,400 sqft
+Description: Sophisticated brownstone with historic charm, high ceilings, and fireplace in the heart of Back Bay.
+
+Listing 7:
+Neighborhood: Cherry Creek, Denver, Colorado
+Price: $900,000
+Bedrooms: 4
+Bathrooms: 3
+House Size: 2,800 sqft
+Description: Contemporary home with mountain views, open floor plan, and backyard patio for entertaining.
+
+Listing 8:
+Neighborhood: Pacific Heights, San Francisco, California
+Price: $3,500,000
+Bedrooms: 6
+Bathrooms: 4
+House Size: 4,500 sqft
+Description: Victorian mansion with a grand staircase, bay windows, and garden in the exclusive Pacific Heights neighborhood.
+
+Listing 9:
+Neighborhood: Georgetown, Washington, D.C.
+Price: $1,300,000
+Bedrooms: 3
+Bathrooms: 2
+House Size: 2,200 sqft
+Description: Federal-style townhouse with a private courtyard, exposed brick walls, and gourmet kitchen in historic Georgetown.
+
+Listing 10:
+Neighborhood: Hollywood Hills, Los Angeles, California
+Price: $4,000,000
+Bedrooms: 5
+Bathrooms: 4
+House Size: 5,000 sqft
+Description: Modern villa with panoramic city views, infinity pool, home theater, and guest suite in the Hollywood Hills.
